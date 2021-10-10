@@ -1,4 +1,4 @@
-RU: Как работать с ботом?
+RU:
 Для начала, надо установить Python: https://www.python.org/
 Далее установить PyTelegramBotAPI с помощью команды: pip install pyTelegramBotAPI
 Теперь надо получить токен
