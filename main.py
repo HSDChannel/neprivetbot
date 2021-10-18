@@ -14,4 +14,4 @@ def message_reply(message):
         photo = open('info.png', 'rb')
         bot.send_photo(message.chat.id, photo)
         bot.send_message(message.chat.id, 'https://neprivet.ru')
-bot.infinity_polling(interval=0, timeout=20)
+bot.infinity_polling()
