@@ -1,6 +1,6 @@
-RU:
+RU: Как работать с ботом?
 Для начала, надо установить Python: https://www.python.org/
-Далее установить PyTelegramBotAPI с помощью команды: pip install pyTelegramBotAPI
+Далее установить PyTelegramBotAPI и retry с помощью команды: pip install pyTelegramBotAPI retry
 Теперь надо получить токен
 Открываем телеграм и вводим в поисковике BotFather
 Далее вводим команду /newbot
